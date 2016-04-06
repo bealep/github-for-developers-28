@@ -1,5 +1,5 @@
-*Peter Beale*
-Acton MA
-Sushi
-Track
-Red
+**Name** Peter Beale
+**Location** Acton MA
+**Food** Sushi
+**Hobby** Track
+**Color** Red
